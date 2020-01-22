@@ -1,11 +1,16 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name = "OpenPage" >
-    <test name = "openMaxPage">
+
+    <test name = "loginPage">
         <classes>
-            <class name = "OpenPage">
+            <class name = "LoginTest">
+
 
             </class>
+
         </classes>
+
     </test>
+
 </suite>
 
