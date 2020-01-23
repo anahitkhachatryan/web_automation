@@ -26,8 +26,7 @@ public class OpenPage {
       //  System.out.println("barev");
       //  WebElement elememnt = (WebElement) driver.findElements(By.cssSelector("div"));
       //  elememnt.click();
-      // driver.quit();
-
+       driver.quit();
     }
 
 }

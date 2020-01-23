@@ -11,6 +11,33 @@
         </classes>
 
     </test>
+    <test name = "openMaxPage">
+        <classes>
+            <class name = "OpenPage">
+
+            </class>
+
+        </classes>
+
+    </test>
+    <test name = "errorMassiForPass">
+    <classes>
+        <class name = "WrongPass">
+
+        </class>
+
+    </classes>
+
+</test>
+    <test name = "errorMassiForUserName">
+        <classes>
+            <class name = "WrongUsername">
+
+            </class>
+
+        </classes>
+
+    </test>
 
 </suite>
 
